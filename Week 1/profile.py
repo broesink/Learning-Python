@@ -1,0 +1,10 @@
+name = input("What is your name? ")
+age = input("What is your age? ")
+city = input("In which city do you live? ")
+occupation = input("What is your occupation? ")
+hobby = input("What is your hobby? ")
+
+print("\n" + "*" * 60)
+print(f"\nHi, my name is {name}, {age} years old and based in {city}.")
+print(f"I work as a {occupation} and my hobby is {hobby}.")
+print("\n" + "*" * 60)

@@ -1,0 +1,3 @@
+Hello, file!
+This is the second line.
+With 'a' a line is added at the end of the file.

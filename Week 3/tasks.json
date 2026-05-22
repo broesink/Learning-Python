@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Banana",
+        "done": false
+    },
+    {
+        "task": "Apple",
+        "done": true
+    },
+    {
+        "task": "Strawberry",
+        "done": false
+    },
+    {
+        "task": "Hellow",
+        "done": true
+    },
+    {
+        "task": "Water",
+        "done": true
+    }
+]

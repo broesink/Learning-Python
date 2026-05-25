@@ -1,0 +1,27 @@
+[
+    {
+        "city": "Benidorm",
+        "temperature": 24.3,
+        "time": "2026-05-25 10:06"
+    },
+    {
+        "city": "Raalte",
+        "temperature": 22.2,
+        "time": "2026-05-25 10:06"
+    },
+    {
+        "city": "Amsterdam",
+        "temperature": 22.8,
+        "time": "2026-05-25 10:08"
+    },
+    {
+        "city": "New York",
+        "temperature": 12.9,
+        "time": "2026-05-25 10:09"
+    },
+    {
+        "city": "Heino",
+        "temperature": 21.3,
+        "time": "2026-05-25 10:09"
+    }
+]

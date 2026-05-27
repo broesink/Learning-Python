@@ -21,6 +21,6 @@ open("non-existing-file.txt")
 10 / 0
 
 #AttributeError > Method doesn't exist on this type
-42.upper()
+#42.upper()
 
 # > When you get an error in the terminal, you'll see the error so its important to learn these error-types so you know right away what is going on

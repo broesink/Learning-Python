@@ -1,5 +1,8 @@
 class Car:
     def __init__(self, brand, model, year):
+        #self > This specific object
+        #self.brand = the 'brand' variable from this object
+        #brand = The value that it gets when creating
         self.brand = brand
         self.model = model
         self.year = year
